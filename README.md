@@ -22,8 +22,8 @@ This is a lightweight GUI-based vocabulary quiz application built with **Python*
 
 vocab-quiz/
 │
-├── vocab_game.py # Main Python file with GUI and logic
-├── words.csv # English–Turkish word list (your source)
+├── kelime_oyunu_gui.py # Main Python file with GUI and logic
+├── yenikel.csv # English–Turkish word list (your source)
 └── README.md # You're reading it!
 
 ---
